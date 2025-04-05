@@ -1,0 +1,19 @@
+{
+  "name": "is_email-validator",
+  "version": "1.0.0",
+  "description": "this is a validator for email",
+  "repository": {
+    "type": "git",
+    "url": "validator"
+  },
+  "license": "ISC",
+  "author": "David",
+  "type": "commonjs",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "validator": "^13.15.0"
+  }
+}
